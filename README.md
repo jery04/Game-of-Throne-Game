@@ -1,4 +1,4 @@
-﻿# 🎮⚙️ Gwent Project - Game of Thrones Inspired Card Game (Unity) 🐺🐉
+﻿# 🎮 Game of Thrones Inspired Card Game (Unity) 🐺🐉
 
 This repository contains a complete Unity card game inspired by Gwent, with a Game of Thrones theme and one major custom feature: a built-in DSL compiler that lets players create their own playable cards with scripted effects. ✨
 
